@@ -18,3 +18,5 @@ Fork the project, create a feature branch, and open a pull request. Draft PRs ar
 
 ## Acknowledgements
 Thanks to everyone working to reduce food waste 🍎
+
+Save the earth :)
