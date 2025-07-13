@@ -17,6 +17,6 @@ Planning & learning phase — no code yet (will be built in Python).
 Fork the project, create a feature branch, and open a pull request. Draft PRs are welcome.
 
 ## Acknowledgements
-Thanks to everyone working to reduce food waste 🍎
+Thanks to everyone working to reduce food waste and save a few extra pennies along the way 🍎💰
 
 Save the earth :)
